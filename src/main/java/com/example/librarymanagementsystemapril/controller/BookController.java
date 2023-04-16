@@ -25,5 +25,5 @@ public class BookController {
 
     // find all the books of a particular authorId
 
-    // // find the number of books written by an autho
+    // // find the number of books written by an author
 }
